@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641903041 source:c:\users\hp\desktop\omar24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641903041 source:c:\users\hp\desktop\company management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
